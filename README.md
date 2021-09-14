@@ -21,7 +21,6 @@ Note that there are some unused custom-defiened layers in my_layers.py. Please i
 * numpy 1.19.1
 
 ## Note
-The current code version is not perfect enough for reference only.
 Please download the glove.840B.300d.txt in glove.
 
 ## Cite
