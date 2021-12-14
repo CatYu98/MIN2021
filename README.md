@@ -30,7 +30,6 @@ Note that there are some unused custom-defiened layers in my_layers.py. Please i
 Please download the glove.840B.300d.txt in glove.
 
 ## Cite
-Thanks for code from:
 ```
 @inproceedings{yu2021making,
   title={Making Flexible Use of Subtasks: A Multiplex Interaction Network for Unified Aspect-based Sentiment Analysis},
@@ -40,3 +39,5 @@ Thanks for code from:
   year={2021}
 } 
 ```
+
+Thanks for code from Ruidan He: https://github.com/ruidan/IMN-E2E-ABSA
